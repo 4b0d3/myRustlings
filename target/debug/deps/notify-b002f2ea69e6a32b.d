@@ -1,0 +1,10 @@
+/Users/abdullahhamed/Desktop/School/rustlings/target/debug/deps/libnotify-b002f2ea69e6a32b.rmeta: /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/fsevent.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/Users/abdullahhamed/Desktop/School/rustlings/target/debug/deps/notify-b002f2ea69e6a32b.d: /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/fsevent.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/fsevent.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs:

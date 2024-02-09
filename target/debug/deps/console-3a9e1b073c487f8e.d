@@ -1,0 +1,11 @@
+/Users/abdullahhamed/Desktop/School/rustlings/target/debug/deps/libconsole-3a9e1b073c487f8e.rmeta: /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/abdullahhamed/Desktop/School/rustlings/target/debug/deps/console-3a9e1b073c487f8e.d: /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs:
+/Users/abdullahhamed/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs:
